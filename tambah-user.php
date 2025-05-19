@@ -85,7 +85,8 @@
                                         </div>
                                     </div>
                                     <div class="mb-3" row>
-                                        <button type="submit" class="btn btn-primary">Simpan</button>
+                                        <!-- <button type="submit" class="btn btn-primary">Simpan</button> -->
+                                        <a type="submit" href="index.php" class="btn btn-primary">Simpan</a>
                                     </div>
                                 </form>
                             </div>
